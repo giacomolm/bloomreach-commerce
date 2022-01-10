@@ -1,0 +1,23 @@
+{
+  "name": "bloomreach-commerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giacomolm/bloomreach-commerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giacomolm/bloomreach-commerce/issues"
+  },
+  "homepage": "https://github.com/giacomolm/bloomreach-commerce#readme",
+  "dependencies": {
+    "@bloomreach/graphql-commerce-connector-service": "^14.7.2"
+  }
+}
